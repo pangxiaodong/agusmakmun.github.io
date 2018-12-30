@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I am a game developer. Currently working in Perfect World Company.
+game developer
 
 email: xiaodongrush@163.com
