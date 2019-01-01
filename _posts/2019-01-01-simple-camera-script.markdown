@@ -51,6 +51,3 @@ public class CameraControl : MonoBehaviour
     }
 }
 ```
-![] (https://github.com/pangxiaodong/pangxiaodong.github.io/blob/master/assets/imgs/2019_01_01_camera_control.png)
-
-![] (https://github.com/pangxiaodong/pangxiaodong.github.io/blob/master/assets/imgs/2019_01_01_inspector.png)
