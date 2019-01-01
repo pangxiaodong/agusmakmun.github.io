@@ -51,6 +51,3 @@ public class CameraControl : MonoBehaviour
     }
 }
 ```
-![camera_control](../static/img/_posts/2019-1-1-simple-camera-script/camera_control.png)
-
-![camera_game](../static/img/_posts/2019-1-1-simple-camera-script/camera_game.png)
