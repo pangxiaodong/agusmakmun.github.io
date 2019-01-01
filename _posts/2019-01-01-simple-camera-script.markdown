@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "simple camera script"
-date:   2019-1-1 00:18:23 +0700
+date:   2019-01-01 00:18:23 +0700
 categories: [unity]
 ---
 [Youtube: Unity 5 Third Person Camera](https://www.youtube.com/watch?v=Ta7v27yySKs)
@@ -51,3 +51,7 @@ public class CameraControl : MonoBehaviour
     }
 }
 ```
+![] (https://github.com/pangxiaodong/pangxiaodong.github.io/tree/master/assets/imgs/2019_01_01_camera_control.png)
+
+![] (https://github.com/pangxiaodong/pangxiaodong.github.io/tree/master/assets/imgs/2019_01_01_inspector.png)
+
