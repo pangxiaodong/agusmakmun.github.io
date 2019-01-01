@@ -51,3 +51,6 @@ public class CameraControl : MonoBehaviour
     }
 }
 ```
+![Game视图]({{ site.baseurl }}/images/simple-camera-script/game_view.png)
+
+![Game Control]({{ site.baseurl }}/images/simple-camera-script/camera_control_inspector.png)
