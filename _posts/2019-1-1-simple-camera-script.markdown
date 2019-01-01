@@ -4,13 +4,11 @@ title:  "simple camera script"
 date:   2019-1-1 00:18:23 +0700
 categories: [unity]
 ---
-[outube视频地址](https://www.youtube.com/watch?v=Ta7v27yySKs)
-
 [Youtube: Unity 5 Third Person Camera](https://www.youtube.com/watch?v=Ta7v27yySKs)
 
-[脚本下载地址](https://n3k.ca/downloads/bin/sc-3rd-camera.unitypackage)
+[脚本下载](https://n3k.ca/downloads/bin/sc-3rd-camera.unitypackage)
 
-作者的站点，https://n3k.ca/#Download
+[作者站点](https://n3k.ca/#Download)
 
 ```c#
 using System.Collections;
