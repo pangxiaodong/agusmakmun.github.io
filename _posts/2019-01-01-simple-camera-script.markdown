@@ -6,9 +6,9 @@ categories: [unity]
 ---
 [Youtube: Unity 5 Third Person Camera](https://www.youtube.com/watch?v=Ta7v27yySKs)
 
-[脚本下载](https://n3k.ca/downloads/bin/sc-3rd-camera.unitypackage)
+[Script Download](https://n3k.ca/downloads/bin/sc-3rd-camera.unitypackage)
 
-[作者站点](https://n3k.ca/#Download)
+[Author Site](https://n3k.ca/#Download)
 
 ```c#
 using System.Collections;
