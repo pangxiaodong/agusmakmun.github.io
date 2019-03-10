@@ -4,7 +4,9 @@ title:  "align ugui recttransform"
 date:   2019-02-13 00:16:59
 categories: [unity]
 ---
-[Script Download](https://github.com/pangxiaodong/RectTransformUtils/tree/master/Assets/Scenes/AlignUtil)
+- Set pivot for the self point of the alignment. 
+- Set anchorMin and anchorMax for the parent point of the alignment.
+- Set anchoredPosition for the offset of the alignment.
 
 ```c#
 using System.Collections;
