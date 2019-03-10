@@ -6,6 +6,10 @@ categories: [unity]
 ---
 It's a tool to view or edit the MaterialPropertyBlock of the renderer component.
 
+![MPBViewer]({{ site.baseurl }}/images/material-property-block-viewer/mpb_viewer.png)
+
+Code
+
 - Get Material Property
 
   MaterialProperty[] props = MaterialEditor.GetMaterialProperties(new Material[] { mat }); 
@@ -282,7 +286,3 @@ namespace UnityEditor
 
 }
 ```
-
-
-
-![MPBViewer]({{ site.baseurl }}/images/material-property-block-viewer/mpb_viewer.png)
