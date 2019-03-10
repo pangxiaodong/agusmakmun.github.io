@@ -4,11 +4,11 @@ title:  "align ugui recttransform"
 date:   2019-02-13 00:16:59
 categories: [unity]
 ---
-It's a tool for ugui alignment.
+### It's a tool for ugui alignment.
 
 ![align util]({{ site.baseurl }}/images/align-ugui-recttransform/align_util.png)
 
-Method
+### Method
 
 - Set pivot for the self point of the alignment. 
 - Set anchorMin and anchorMax for the parent point of the alignment.

@@ -4,11 +4,11 @@ title:  "material property block viewer"
 date:   2019-03-10 00:10:35
 categories: [unity]
 ---
-It's a tool to view or edit the MaterialPropertyBlock of the renderer component.
+### It's a tool to view or edit the MaterialPropertyBlock of the renderer component.
 
 ![MPBViewer]({{ site.baseurl }}/images/material-property-block-viewer/mpb_viewer.png)
 
-Code
+### Code
 
 - Get Material Property
 
