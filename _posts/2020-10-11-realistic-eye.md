@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Easy procedural eye"
+title:  "Realistic eye"
 date:   2020-10-11 15:00:00 +0800
 categories: [blender]
 ---
