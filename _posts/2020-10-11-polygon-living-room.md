@@ -5,17 +5,14 @@ date:   2020-10-11 15:40:00 +0800
 categories: [blender]
 ---
 
-
-![Final Render](https://raw.githubusercontent.com/pangxiaodong/pangxiaodong.github.io/master/static/img/_posts/realistic-eye/render.png)
-
-------
-
-![Model](https://raw.githubusercontent.com/pangxiaodong/pangxiaodong.github.io/master/static/img/_posts/realistic-eye/model.png)
+![Modell Render](https://raw.githubusercontent.com/pangxiaodong/pangxiaodong.github.io/master/static/img/_posts/polygon-living-room/model.png)
 
 ------
 
-![Inner UVl Render](https://raw.githubusercontent.com/pangxiaodong/pangxiaodong.github.io/master/static/img/_posts/realistic-eye/inner-uv.png)
+Render Engine : Cycles
+
+![Render1](https://raw.githubusercontent.com/pangxiaodong/pangxiaodong.github.io/master/static/img/_posts/polygon-living-room/render1.png)
 
 ------
 
-![Outer UV](https://raw.githubusercontent.com/pangxiaodong/pangxiaodong.github.io/master/static/img/_posts/realistic-eye/outer-uv.png)
+![Render1](https://raw.githubusercontent.com/pangxiaodong/pangxiaodong.github.io/master/static/img/_posts/polygon-living-room/render2.png)
